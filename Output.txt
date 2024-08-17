@@ -1,0 +1,1 @@
+This file contains the output which is generated when a user performs an action through your app.
